@@ -1,6 +1,51 @@
-# this is an h1
-## this is cool
-#
-dbfskjkkj **with spaces** aways with soays ces 
+## Introducing sandbox.js (requires Webkit 6.4rc-1)
+
+![sandbox.js 1.3.5rc1](http://sunburntkamel.wordpress.com/files/2006/09/sandbox3gray.jpg)
+
+### Version 1.3.5rc1 fixes fundamental issues in chroot.js & in ~~jQuery~~ (fixed)
 ---
-`fin.`
+
+  Thanks to Webkit's latest v8 engine release-candidate, **sandbox.js** now  
+  supports native threads and uses usys_exec when communicating with the  
+  native machine. This means no more environment where  additional possibility  
+  to *(see chroot.js below)* serve *without* Apache/root privileges. This is useful  
+  for allowing users to create own sandboxed browser environment with possibility  
+  to install another package **without need for root privileges**.  
+
+sandbox.js replaces insecure jquery functions ($.each(), ~~open()~~, etc.)  
+by ones that simulate the effect the real library functions would have had,   
+had the user really been in a sandbox chroot. These wrapper functions are in  
+shared pkg lib/sandbox.min.js  
+
+### Command-line installation
+`$ npm install sandbox chroot kernal node`  
+`$ npm unlink $NPM_PATH/lib/kernal.js`  
+`$ npm re-link`
+
+### Mountain Lion (10.8.2+) installation
+`$ brew install sandbox`  
+`$ brew doctor`  
+
+
+### Windows installation
+Download the latest drivers from  
+<http://open-source.microsoft.com/sandbox/release/win32/>
+
+### Manual installation
+Grab the tar.gz and run the usual:  
+`$ ./configure && make && sudo make install`
+`$ sudo /etc/init.d/sandbox-js.rc1`
+
+---
+
+#### Development
+Code written in [Vim](http://www.vim.org/) on OS X 10.8.
+
+##### Licensing & rights
+Code is licensed under the MIT license see the `MIT-LICENSE.txt` file for details.  
+The sandbox.js icon is owned by [WITHPULP.COM](http://withpulp.com/) and released  
+under the, which is licensed under the **Creative Commons Attribution-ShareAlike 3.0** license.  
+
+  ---
+
+## COPYRIGHT 2011-2013 &copy;
