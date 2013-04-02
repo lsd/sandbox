@@ -1,0 +1,92 @@
+## LETS CURATE THE BEST SHORT SKITS
+## Anyone can contribute. Let's make this list huge.)
+===
+
+Post a title/name, keywords to find it,
+or the best: a link to video or file (Thanks)
+
+If you don't have an exact reference to the skit,
+use the [IT GOES LIKE ...][] category. Post names, 
+of cast, etc. Any memorable information is a clue.
+
+#### Crash Course
+===
+
+**What's Markdown?**
+* It's a shorthand to type richer text documents faster.
+* *much faster.* It's how we naturally jot notes in txt files
+* File must be named .markdown or .mkd (not .mkd.txt)
+* Any code / text editor will open a Markdown file.
+
+**Getting started is easy.
+* Follow the current format. 5 mins to learn.
+* Indent with spaces only, to line up colomns.
+* There is a copy/paste template to make this easy
+* Try free app **<http://google.com/?q=Muo>** for OS X. A Markdown Editor
+
+##### Forgot a command? Totally lost? something broke?
+* [Terminal/ssh/shell][]
+* [git/stree][]
+* [crash course][]
+* [View ALL reference files][]
+
+##### Use the blank "template" to add an entry. Rate 1-3
+---
+Entries span ONE line and you must line up the |. Use spaces  
+not tabs. Put a ___ between each show/movie group  
+to make this visual, consider the "dots" to represent spaces  
+..|.....................|..
+___
+n |   Show or Movie     |  Episode, skit, search term, clue to find title
+___
+5 |   Black Dynamite    |  Little chinese eyes
+3 |   Black Dynamite    |  anaconda malt conclusion
+___
+  |   Seinfeld          |  george Pensky File
+  |   Seinfeld          |  jerry The Doorman
+  |   Seinfeld          |  george handicap
+  |   Seinfeld          |  george Likes his chicken spicey
+  |   Seinfeld          |  george brilliant story check mate
+  |   Seinfeld          |  george + seinfeld - 'lady jerry' secretly gay
+  |   Seinfeld          |  george dreams "you're so bold"
+  |   Seinfeld          |  george a pinkish hue, jerry finds george a girl
+  |   Seinfeld          |  george I can't beleive it, I'm a father
+___
+  |   Curb Enthusiasm   |  fucking jew, antisematism, promise land, shara
+  |   Curb Enthusiasm   |  
+  |   Curb Enthusiasm   |  
+___
+  |   Karl Pilkington   |  
+  |   Karl Pilkington   |  
+___
+  |   Community         |  
+  |   Community         |  
+___
+  |   Extras            |  
+  |   Extras            |  
+___
+  |   MADTV             |  Montel Chilliums
+  |   MADTV             |  
+___
+  |   SNL               |  
+  |   SNL               |  
+___
+  |  
+  |                     |  
+  |                     |  
+  |                     |  
+___
+  |                     |  
+  |                     |  
+  |                     |  
+___
+___
+
+
+___
+
+##### IT GOES LIKE   ... #####
+---
+
+===
+confusion, purple haze, trees up in my head, then the boy went up the kraken hill to find nothing but an enthusiastic mind blasting piece of sugar candy. **too good**
